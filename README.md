@@ -1,4 +1,4 @@
-# LaTeXPayload
+# LaTeXecute
 
 <p align="center">
 <img src="logo.jpg" width="350">
